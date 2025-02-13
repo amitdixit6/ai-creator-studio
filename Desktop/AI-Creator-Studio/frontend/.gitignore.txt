@@ -1,0 +1,12 @@
+# Ignore system and OS-specific files
+ntuser.dat*
+ntuser.ini
+*.regtrans-ms
+*.blf
+
+# Ignore folders
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
